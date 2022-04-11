@@ -5,4 +5,4 @@
 
 Backbone: DenseNet121, SwinT
 
-Input:original胸片，lung region， lession region Concatnate
+Input:original CXR，lung region， lession region Concatnate
